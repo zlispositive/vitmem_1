@@ -1,3 +1,6 @@
+#### Note
+This is a fork from the original branch.
+
 # ViTMem
 
 This package uses vision transformers in pytorch to estimate image memorability.
